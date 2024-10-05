@@ -1,0 +1,20 @@
+Continuous Delivery :
+  Ability to deploy often using automation
+  May involve a manual step to approve a deployment
+  Deployment itself is still automated and repeated
+
+Continuous Deployment:
+  Full automation: every code change is deployed all the way to production
+  No manual intervention of approvals
+
+
+CI/CD with AWS
+(AWS CodePipeline)
+Code           =>   Build         =>     Test           =>   Deploy 
+
+AWS CodeCommit     AWS CodeBuils    Third Party Plugins    AWS CodeDeploy
+
+
+
+
+
