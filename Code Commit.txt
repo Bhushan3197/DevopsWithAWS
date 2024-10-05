@@ -1,0 +1,12 @@
+Version control is the ability to understand the various changes that happened to code over time (and possibly roll back)
+
+All these are enable by using version control system such as git
+
+A Git repository can live on one's machine, but it usually lives on a central online repository
+
+
+Codecommit : Benefits 
+Collaborate with other deplovpers 
+make sure the code is backed up somewhere
+Make sure its fully viewable and auditable
+
