@@ -1,0 +1,28 @@
+Fully managed build service
+
+Serverless
+
+Continuous scaling
+
+Leverages Docker
+
+Pay as you go
+
+Supports coustom Docker images
+
+Secure
+
+
+
+
+Source code from Github, CodeCommit, CodePipeline, S3, etc.
+
+Build instructions(buildspec.yml file)
+
+Build logs in to Amazon S3 and Amazon Cloudwatch logs
+
+Cloudwatch metrics for build statistics
+
+Cloudwatch Events to detect failed builds 
+
+Cloudwatch alarms and SNS notifications
