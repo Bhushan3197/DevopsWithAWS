@@ -1,0 +1,25 @@
+Continuous Delivery
+
+Visual workflow
+
+source: Github, CodeCommit, or Amazon S3
+
+Build: CodeBuild, Jenkins, and so on
+
+Load testing: Third -party tools
+
+Deploy: CodeDeploy, Beanstalk, Cloudformation, ECS and so on
+
+
+
+Stages:
+
+Each stage can have sequential or parallel actions
+
+Stages can be build, test, deploy, load test, and so on
+
+Manual Approvals can be defined at any stage
+
+Code                   =>   Build          =>     Test             =>   Deploy
+
+Aws CodeCommit/Github      AWS CodeBuild       Third-Party Plugins     AWS CodeDeploy
