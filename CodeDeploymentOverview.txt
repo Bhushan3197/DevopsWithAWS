@@ -1,0 +1,8 @@
+Automate code deployment on EC2, on-premises, lamda and ecs 
+
+minimal downtime
+
+rolleback automatically, in case of failures
+
+Integrate with third-party tools like Jenkins
+
